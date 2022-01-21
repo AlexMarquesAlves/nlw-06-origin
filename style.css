@@ -137,6 +137,20 @@ body {
   width: 100%;
 }
 
+/*====  LOGO ============================ */
+.logo {
+  font: 700 1.31rem var(--title-font);
+  color: var(--title-color);
+}
+
+.logo span {
+  color: var(--base-color);
+}
+
+.logo-alt span {
+  color: var(--body-color);
+}
+
 /*====  HOME ============================ */
 #home {
   overflow: hidden;
