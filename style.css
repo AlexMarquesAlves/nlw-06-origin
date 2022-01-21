@@ -5,6 +5,18 @@
   box-sizing: border-box;
 }
 
+::-webkit-scrollbar {
+  width: 8px;
+  height: 5px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--base-color);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--body-color);
+}
+
 ul {
   list-style: none;
 }
