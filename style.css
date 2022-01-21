@@ -137,6 +137,10 @@ body {
   width: 100%;
 }
 
+#header.scroll {
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.15);
+}
+
 /*====  LOGO ============================ */
 .logo {
   font: 700 1.31rem var(--title-font);
