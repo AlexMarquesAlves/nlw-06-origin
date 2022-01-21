@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src="assets/fotos/preview.png" width="100%">
+  <img alt="OriginSix" src="https://res.cloudinary.com/dbjegw4i5/image/upload/v1642789194/Preview_sbjz8j.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
